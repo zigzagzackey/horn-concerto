@@ -1,0 +1,909 @@
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <https://github.com/tnanako/karutalod#uniqueSyllable> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <https://github.com/tnanako/karutalod#textOfYomi> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <https://github.com/tnanako/karutalod#textOfTori> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <https://github.com/tnanako/karutalod#bonze> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <http://purl.org/dc/elements/1.1/subject> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <http://purl.org/dc/elements/1.1/spacial> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_100> <http://purl.org/dc/elements/1.1/source> <Jun-Toku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <https://github.com/tnanako/karutalod#uniqueSyllable> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <https://github.com/tnanako/karutalod#textOfYomi> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <https://github.com/tnanako/karutalod#textOfTori> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <https://github.com/tnanako/karutalod#bonze> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <http://purl.org/dc/elements/1.1/subject> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <http://purl.org/dc/elements/1.1/spacial> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_099> <http://purl.org/dc/elements/1.1/source> <Gotoba no In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <https://github.com/tnanako/karutalod#uniqueSyllable> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <https://github.com/tnanako/karutalod#textOfYomi> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <https://github.com/tnanako/karutalod#textOfTori> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <https://github.com/tnanako/karutalod#bonze> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <http://purl.org/dc/elements/1.1/subject> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <http://purl.org/dc/elements/1.1/spacial> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_098> <http://purl.org/dc/elements/1.1/source> <Jnii Iye-taka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <https://github.com/tnanako/karutalod#uniqueSyllable> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <https://github.com/tnanako/karutalod#textOfYomi> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <https://github.com/tnanako/karutalod#textOfTori> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <https://github.com/tnanako/karutalod#bonze> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <http://purl.org/dc/elements/1.1/subject> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <http://purl.org/dc/elements/1.1/spacial> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_097> <http://purl.org/dc/elements/1.1/source> <Gon Chu-Nagon Sada-iye>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <https://github.com/tnanako/karutalod#uniqueSyllable> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <https://github.com/tnanako/karutalod#textOfYomi> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <https://github.com/tnanako/karutalod#textOfTori> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <https://github.com/tnanako/karutalod#bonze> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <http://purl.org/dc/elements/1.1/subject> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <http://purl.org/dc/elements/1.1/spacial> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_096> <http://purl.org/dc/elements/1.1/source> <Nydo Saki Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <https://github.com/tnanako/karutalod#uniqueSyllable> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <https://github.com/tnanako/karutalod#textOfYomi> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <https://github.com/tnanako/karutalod#textOfTori> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <https://github.com/tnanako/karutalod#bonze> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <http://purl.org/dc/elements/1.1/subject> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <http://purl.org/dc/elements/1.1/spacial> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_095> <http://purl.org/dc/elements/1.1/source> <Saki No Daisojo Jiyen>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <https://github.com/tnanako/karutalod#textOfYomi> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <https://github.com/tnanako/karutalod#textOfTori> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <https://github.com/tnanako/karutalod#bonze> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <http://purl.org/dc/elements/1.1/subject> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <http://purl.org/dc/elements/1.1/spacial> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_094> <http://purl.org/dc/elements/1.1/source> <Sangi Masatsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <https://github.com/tnanako/karutalod#textOfYomi> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <https://github.com/tnanako/karutalod#textOfTori> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <https://github.com/tnanako/karutalod#bonze> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <http://purl.org/dc/elements/1.1/subject> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <http://purl.org/dc/elements/1.1/spacial> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_093> <http://purl.org/dc/elements/1.1/source> <Kamakura Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <https://github.com/tnanako/karutalod#uniqueSyllable> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <https://github.com/tnanako/karutalod#textOfYomi> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <https://github.com/tnanako/karutalod#textOfTori> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <https://github.com/tnanako/karutalod#bonze> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <http://purl.org/dc/elements/1.1/subject> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <http://purl.org/dc/elements/1.1/spacial> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_092> <http://purl.org/dc/elements/1.1/source> <Nijo In Sanuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <https://github.com/tnanako/karutalod#uniqueSyllable> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <https://github.com/tnanako/karutalod#textOfYomi> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <https://github.com/tnanako/karutalod#textOfTori> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <https://github.com/tnanako/karutalod#bonze> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <http://purl.org/dc/elements/1.1/subject> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <http://purl.org/dc/elements/1.1/spacial> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_091> <http://purl.org/dc/elements/1.1/source> <Go-kyo-goku Sessho Saki no Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <https://github.com/tnanako/karutalod#uniqueSyllable> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <https://github.com/tnanako/karutalod#textOfYomi> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <https://github.com/tnanako/karutalod#textOfTori> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <https://github.com/tnanako/karutalod#bonze> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <http://purl.org/dc/elements/1.1/subject> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <http://purl.org/dc/elements/1.1/spacial> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_090> <http://purl.org/dc/elements/1.1/source> <Impu Mon-in no Osuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <https://github.com/tnanako/karutalod#uniqueSyllable> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <https://github.com/tnanako/karutalod#textOfYomi> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <https://github.com/tnanako/karutalod#textOfTori> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <https://github.com/tnanako/karutalod#bonze> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <http://purl.org/dc/elements/1.1/subject> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <http://purl.org/dc/elements/1.1/spacial> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_089> <http://purl.org/dc/elements/1.1/source> <Shikishi Naishinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <https://github.com/tnanako/karutalod#textOfYomi> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <https://github.com/tnanako/karutalod#textOfTori> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <https://github.com/tnanako/karutalod#bonze> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <http://purl.org/dc/elements/1.1/subject> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <http://purl.org/dc/elements/1.1/spacial> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_088> <http://purl.org/dc/elements/1.1/source> <Kwoka Mon-in no Betto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <https://github.com/tnanako/karutalod#uniqueSyllable> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <https://github.com/tnanako/karutalod#textOfYomi> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <https://github.com/tnanako/karutalod#textOfTori> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <https://github.com/tnanako/karutalod#bonze> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <http://purl.org/dc/elements/1.1/subject> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <http://purl.org/dc/elements/1.1/spacial> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_087> <http://purl.org/dc/elements/1.1/source> <Jaku-ren Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <https://github.com/tnanako/karutalod#uniqueSyllable> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <https://github.com/tnanako/karutalod#textOfYomi> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <https://github.com/tnanako/karutalod#textOfTori> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <https://github.com/tnanako/karutalod#bonze> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <http://purl.org/dc/elements/1.1/subject> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <http://purl.org/dc/elements/1.1/spacial> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_086> <http://purl.org/dc/elements/1.1/source> <Saigyo Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <https://github.com/tnanako/karutalod#uniqueSyllable> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <https://github.com/tnanako/karutalod#textOfYomi> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <https://github.com/tnanako/karutalod#textOfTori> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <https://github.com/tnanako/karutalod#bonze> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <http://purl.org/dc/elements/1.1/subject> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <http://purl.org/dc/elements/1.1/spacial> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_085> <http://purl.org/dc/elements/1.1/source> <Shun-ye Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <https://github.com/tnanako/karutalod#bonze> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <http://purl.org/dc/elements/1.1/subject> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_084> <http://purl.org/dc/elements/1.1/source> <Fujiwara No Kiyo-suke Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <https://github.com/tnanako/karutalod#textOfYomi> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <https://github.com/tnanako/karutalod#textOfTori> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <https://github.com/tnanako/karutalod#bonze> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <http://purl.org/dc/elements/1.1/subject> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <http://purl.org/dc/elements/1.1/spacial> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_083> <http://purl.org/dc/elements/1.1/source> <Kwo-tai-kog no Taiu Toshi-nari>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <https://github.com/tnanako/karutalod#uniqueSyllable> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <https://github.com/tnanako/karutalod#textOfYomi> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <https://github.com/tnanako/karutalod#textOfTori> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <https://github.com/tnanako/karutalod#bonze> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <http://purl.org/dc/elements/1.1/subject> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <http://purl.org/dc/elements/1.1/spacial> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_082> <http://purl.org/dc/elements/1.1/source> <Do-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <https://github.com/tnanako/karutalod#uniqueSyllable> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <https://github.com/tnanako/karutalod#textOfYomi> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <https://github.com/tnanako/karutalod#textOfTori> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <https://github.com/tnanako/karutalod#bonze> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <http://purl.org/dc/elements/1.1/subject> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <http://purl.org/dc/elements/1.1/spacial> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_081> <http://purl.org/dc/elements/1.1/source> <Go Tokudai-ji Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <https://github.com/tnanako/karutalod#uniqueSyllable> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <https://github.com/tnanako/karutalod#textOfYomi> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <https://github.com/tnanako/karutalod#textOfTori> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <https://github.com/tnanako/karutalod#bonze> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <http://purl.org/dc/elements/1.1/subject> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <http://purl.org/dc/elements/1.1/spacial> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_080> <http://purl.org/dc/elements/1.1/source> <Taiken Mon-in Horikawa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <https://github.com/tnanako/karutalod#textOfYomi> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <https://github.com/tnanako/karutalod#textOfTori> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <https://github.com/tnanako/karutalod#bonze> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <http://purl.org/dc/elements/1.1/subject> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <http://purl.org/dc/elements/1.1/spacial> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_079> <http://purl.org/dc/elements/1.1/source> <Sakyo no Taiu Aki-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <https://github.com/tnanako/karutalod#uniqueSyllable> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <https://github.com/tnanako/karutalod#textOfYomi> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <https://github.com/tnanako/karutalod#textOfTori> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <https://github.com/tnanako/karutalod#bonze> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <http://purl.org/dc/elements/1.1/subject> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <http://purl.org/dc/elements/1.1/spacial> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_078> <http://purl.org/dc/elements/1.1/source> <Minamoto no Kanemasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <https://github.com/tnanako/karutalod#textOfYomi> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <https://github.com/tnanako/karutalod#textOfTori> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <https://github.com/tnanako/karutalod#bonze> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <http://purl.org/dc/elements/1.1/subject> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <http://purl.org/dc/elements/1.1/spacial> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_077> <http://purl.org/dc/elements/1.1/source> <Sutoku In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <https://github.com/tnanako/karutalod#uniqueSyllable> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <https://github.com/tnanako/karutalod#textOfYomi> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <https://github.com/tnanako/karutalod#textOfTori> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <https://github.com/tnanako/karutalod#bonze> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <http://purl.org/dc/elements/1.1/subject> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <http://purl.org/dc/elements/1.1/spacial> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_076> <http://purl.org/dc/elements/1.1/source> <Hosho-ji Nydo Saki no Kwambaku Daijodaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <https://github.com/tnanako/karutalod#bonze> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <http://purl.org/dc/elements/1.1/subject> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_075> <http://purl.org/dc/elements/1.1/source> <Fujiwara no Mototoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <https://github.com/tnanako/karutalod#uniqueSyllable> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <https://github.com/tnanako/karutalod#textOfYomi> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <https://github.com/tnanako/karutalod#textOfTori> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <https://github.com/tnanako/karutalod#bonze> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <http://purl.org/dc/elements/1.1/subject> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <http://purl.org/dc/elements/1.1/spacial> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_074> <http://purl.org/dc/elements/1.1/source> <Minamoto no Toshi-yori Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <https://github.com/tnanako/karutalod#uniqueSyllable> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <https://github.com/tnanako/karutalod#textOfYomi> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <https://github.com/tnanako/karutalod#textOfTori> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <https://github.com/tnanako/karutalod#bonze> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <http://purl.org/dc/elements/1.1/subject> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <http://purl.org/dc/elements/1.1/spacial> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_073> <http://purl.org/dc/elements/1.1/source> <Gon Ch-nagon Masafusa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <https://github.com/tnanako/karutalod#uniqueSyllable> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <https://github.com/tnanako/karutalod#textOfYomi> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <https://github.com/tnanako/karutalod#textOfTori> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <https://github.com/tnanako/karutalod#bonze> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <http://purl.org/dc/elements/1.1/subject> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <http://purl.org/dc/elements/1.1/spacial> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_072> <http://purl.org/dc/elements/1.1/source> <Yshi Naishinno Ke Kii>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <https://github.com/tnanako/karutalod#uniqueSyllable> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <https://github.com/tnanako/karutalod#textOfYomi> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <https://github.com/tnanako/karutalod#textOfTori> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <https://github.com/tnanako/karutalod#bonze> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <http://purl.org/dc/elements/1.1/subject> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <http://purl.org/dc/elements/1.1/spacial> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_071> <http://purl.org/dc/elements/1.1/source> <Dai-Nagon Tsune-nobu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <https://github.com/tnanako/karutalod#uniqueSyllable> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <https://github.com/tnanako/karutalod#textOfYomi> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <https://github.com/tnanako/karutalod#textOfTori> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <https://github.com/tnanako/karutalod#bonze> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <http://purl.org/dc/elements/1.1/subject> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <http://purl.org/dc/elements/1.1/spacial> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_070> <http://purl.org/dc/elements/1.1/source> <Riyo-zen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <https://github.com/tnanako/karutalod#uniqueSyllable> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <https://github.com/tnanako/karutalod#textOfYomi> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <https://github.com/tnanako/karutalod#textOfTori> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <https://github.com/tnanako/karutalod#bonze> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <http://purl.org/dc/elements/1.1/subject> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <http://purl.org/dc/elements/1.1/spacial> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_069> <http://purl.org/dc/elements/1.1/source> <No-in Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <https://github.com/tnanako/karutalod#textOfYomi> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <https://github.com/tnanako/karutalod#textOfTori> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <https://github.com/tnanako/karutalod#bonze> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <http://purl.org/dc/elements/1.1/subject> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <http://purl.org/dc/elements/1.1/spacial> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_068> <http://purl.org/dc/elements/1.1/source> <Sanjo In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <https://github.com/tnanako/karutalod#uniqueSyllable> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <https://github.com/tnanako/karutalod#textOfYomi> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <https://github.com/tnanako/karutalod#textOfTori> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <https://github.com/tnanako/karutalod#bonze> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <http://purl.org/dc/elements/1.1/subject> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <http://purl.org/dc/elements/1.1/spacial> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_067> <http://purl.org/dc/elements/1.1/source> <Suwo no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <https://github.com/tnanako/karutalod#uniqueSyllable> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <https://github.com/tnanako/karutalod#textOfYomi> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <https://github.com/tnanako/karutalod#textOfTori> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <https://github.com/tnanako/karutalod#bonze> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <http://purl.org/dc/elements/1.1/subject> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <http://purl.org/dc/elements/1.1/spacial> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_066> <http://purl.org/dc/elements/1.1/source> <Daisojo Gyoson>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <https://github.com/tnanako/karutalod#textOfYomi> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <https://github.com/tnanako/karutalod#textOfTori> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <https://github.com/tnanako/karutalod#bonze> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <http://purl.org/dc/elements/1.1/subject> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <http://purl.org/dc/elements/1.1/spacial> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_065> <http://purl.org/dc/elements/1.1/source> <Sagami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <https://github.com/tnanako/karutalod#uniqueSyllable> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <https://github.com/tnanako/karutalod#textOfYomi> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <https://github.com/tnanako/karutalod#textOfTori> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <https://github.com/tnanako/karutalod#bonze> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <http://purl.org/dc/elements/1.1/subject> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <http://purl.org/dc/elements/1.1/spacial> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_064> <http://purl.org/dc/elements/1.1/source> <Gon Ch-nagon Sada-yori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <https://github.com/tnanako/karutalod#textOfYomi> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <https://github.com/tnanako/karutalod#textOfTori> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <https://github.com/tnanako/karutalod#bonze> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <http://purl.org/dc/elements/1.1/subject> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <http://purl.org/dc/elements/1.1/spacial> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_063> <http://purl.org/dc/elements/1.1/source> <Sakyo Taiu Michimasa>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <https://github.com/tnanako/karutalod#textOfYomi> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <https://github.com/tnanako/karutalod#textOfTori> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <https://github.com/tnanako/karutalod#bonze> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <http://purl.org/dc/elements/1.1/subject> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <http://purl.org/dc/elements/1.1/spacial> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_062> <http://purl.org/dc/elements/1.1/source> <Sei Sho-nagon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <https://github.com/tnanako/karutalod#textOfYomi> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <https://github.com/tnanako/karutalod#textOfTori> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <https://github.com/tnanako/karutalod#bonze> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <http://purl.org/dc/elements/1.1/subject> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <http://purl.org/dc/elements/1.1/spacial> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_061> <http://purl.org/dc/elements/1.1/source> <Ise no Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <https://github.com/tnanako/karutalod#textOfYomi> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <https://github.com/tnanako/karutalod#textOfTori> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <https://github.com/tnanako/karutalod#bonze> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <http://purl.org/dc/elements/1.1/subject> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <http://purl.org/dc/elements/1.1/spacial> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_060> <http://purl.org/dc/elements/1.1/source> <Ko-shikibu no Naishi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <https://github.com/tnanako/karutalod#uniqueSyllable> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <https://github.com/tnanako/karutalod#textOfYomi> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <https://github.com/tnanako/karutalod#textOfTori> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <https://github.com/tnanako/karutalod#bonze> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <http://purl.org/dc/elements/1.1/subject> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <http://purl.org/dc/elements/1.1/spacial> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_059> <http://purl.org/dc/elements/1.1/source> <Akazome Emon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <https://github.com/tnanako/karutalod#uniqueSyllable> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <https://github.com/tnanako/karutalod#textOfYomi> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <https://github.com/tnanako/karutalod#textOfTori> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <https://github.com/tnanako/karutalod#bonze> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <http://purl.org/dc/elements/1.1/subject> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <http://purl.org/dc/elements/1.1/spacial> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_058> <http://purl.org/dc/elements/1.1/source> <Daini no Sammi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <https://github.com/tnanako/karutalod#uniqueSyllable> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <https://github.com/tnanako/karutalod#textOfYomi> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <https://github.com/tnanako/karutalod#textOfTori> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <https://github.com/tnanako/karutalod#bonze> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <http://purl.org/dc/elements/1.1/subject> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <http://purl.org/dc/elements/1.1/spacial> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_057> <http://purl.org/dc/elements/1.1/source> <Murasaki Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <https://github.com/tnanako/karutalod#uniqueSyllable> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <https://github.com/tnanako/karutalod#textOfYomi> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <https://github.com/tnanako/karutalod#textOfTori> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <https://github.com/tnanako/karutalod#bonze> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <http://purl.org/dc/elements/1.1/subject> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <http://purl.org/dc/elements/1.1/spacial> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_056> <http://purl.org/dc/elements/1.1/source> <Izumi Shikibu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <https://github.com/tnanako/karutalod#uniqueSyllable> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <https://github.com/tnanako/karutalod#textOfYomi> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <https://github.com/tnanako/karutalod#textOfTori> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <https://github.com/tnanako/karutalod#bonze> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <http://purl.org/dc/elements/1.1/subject> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <http://purl.org/dc/elements/1.1/spacial> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_055> <http://purl.org/dc/elements/1.1/source> <Dai-Nagon Kinto>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <https://github.com/tnanako/karutalod#uniqueSyllable> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <https://github.com/tnanako/karutalod#textOfYomi> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <https://github.com/tnanako/karutalod#textOfTori> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <https://github.com/tnanako/karutalod#bonze> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <http://purl.org/dc/elements/1.1/subject> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <http://purl.org/dc/elements/1.1/spacial> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_054> <http://purl.org/dc/elements/1.1/source> <Gido-sanshi no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <https://github.com/tnanako/karutalod#uniqueSyllable> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <https://github.com/tnanako/karutalod#textOfYomi> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <https://github.com/tnanako/karutalod#textOfTori> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <https://github.com/tnanako/karutalod#bonze> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <http://purl.org/dc/elements/1.1/subject> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <http://purl.org/dc/elements/1.1/spacial> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_053> <http://purl.org/dc/elements/1.1/source> <Udaisho Michi-tsuna no Haha>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <https://github.com/tnanako/karutalod#bonze> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <http://purl.org/dc/elements/1.1/subject> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_052> <http://purl.org/dc/elements/1.1/source> <Fujiwara no Michi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <https://github.com/tnanako/karutalod#bonze> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <http://purl.org/dc/elements/1.1/subject> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_051> <http://purl.org/dc/elements/1.1/source> <Fujiwara no Sanekata Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <https://github.com/tnanako/karutalod#bonze> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <http://purl.org/dc/elements/1.1/subject> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_050> <http://purl.org/dc/elements/1.1/source> <Fujiwara no Yoshitaka>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <https://github.com/tnanako/karutalod#uniqueSyllable> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <https://github.com/tnanako/karutalod#textOfYomi> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <https://github.com/tnanako/karutalod#textOfTori> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <https://github.com/tnanako/karutalod#bonze> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <http://purl.org/dc/elements/1.1/subject> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <http://purl.org/dc/elements/1.1/spacial> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_049> <http://purl.org/dc/elements/1.1/source> <Onakatomi no Yoshi-nobu Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <https://github.com/tnanako/karutalod#uniqueSyllable> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <https://github.com/tnanako/karutalod#textOfYomi> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <https://github.com/tnanako/karutalod#textOfTori> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <https://github.com/tnanako/karutalod#bonze> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <http://purl.org/dc/elements/1.1/subject> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <http://purl.org/dc/elements/1.1/spacial> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_048> <http://purl.org/dc/elements/1.1/source> <Minamoto no Shige-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <https://github.com/tnanako/karutalod#textOfYomi> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <https://github.com/tnanako/karutalod#textOfTori> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <https://github.com/tnanako/karutalod#bonze> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <http://purl.org/dc/elements/1.1/subject> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <http://purl.org/dc/elements/1.1/spacial> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_047> <http://purl.org/dc/elements/1.1/source> <Ye-kei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <https://github.com/tnanako/karutalod#uniqueSyllable> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <https://github.com/tnanako/karutalod#textOfYomi> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <https://github.com/tnanako/karutalod#textOfTori> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <https://github.com/tnanako/karutalod#bonze> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <http://purl.org/dc/elements/1.1/subject> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <http://purl.org/dc/elements/1.1/spacial> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_046> <http://purl.org/dc/elements/1.1/source> <So Ne-yoshi-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <https://github.com/tnanako/karutalod#textOfYomi> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <https://github.com/tnanako/karutalod#textOfTori> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <https://github.com/tnanako/karutalod#bonze> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <http://purl.org/dc/elements/1.1/subject> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <http://purl.org/dc/elements/1.1/spacial> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_045> <http://purl.org/dc/elements/1.1/source> <Ken-toku Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <https://github.com/tnanako/karutalod#textOfYomi> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <https://github.com/tnanako/karutalod#textOfTori> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <https://github.com/tnanako/karutalod#bonze> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <http://purl.org/dc/elements/1.1/subject> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <http://purl.org/dc/elements/1.1/spacial> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_044> <http://purl.org/dc/elements/1.1/source> <Ch-Nagon Asa-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <https://github.com/tnanako/karutalod#textOfYomi> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <https://github.com/tnanako/karutalod#textOfTori> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <https://github.com/tnanako/karutalod#bonze> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <http://purl.org/dc/elements/1.1/subject> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <http://purl.org/dc/elements/1.1/spacial> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_043> <http://purl.org/dc/elements/1.1/source> <Ch-nagon Yatsu-tada>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <https://github.com/tnanako/karutalod#textOfYomi> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <https://github.com/tnanako/karutalod#textOfTori> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <https://github.com/tnanako/karutalod#bonze> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <http://purl.org/dc/elements/1.1/subject> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <http://purl.org/dc/elements/1.1/spacial> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_042> <http://purl.org/dc/elements/1.1/source> <Kiyowara no Moto-suke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <https://github.com/tnanako/karutalod#uniqueSyllable> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <https://github.com/tnanako/karutalod#textOfYomi> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <https://github.com/tnanako/karutalod#textOfTori> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <https://github.com/tnanako/karutalod#bonze> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <http://purl.org/dc/elements/1.1/subject> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <http://purl.org/dc/elements/1.1/spacial> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_041> <http://purl.org/dc/elements/1.1/source> <Nibu no Tadami>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <https://github.com/tnanako/karutalod#uniqueSyllable> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <https://github.com/tnanako/karutalod#textOfYomi> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <https://github.com/tnanako/karutalod#textOfTori> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <https://github.com/tnanako/karutalod#bonze> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <http://purl.org/dc/elements/1.1/subject> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <http://purl.org/dc/elements/1.1/spacial> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_040> <http://purl.org/dc/elements/1.1/source> <Taira no Kanemori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <https://github.com/tnanako/karutalod#textOfYomi> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <https://github.com/tnanako/karutalod#textOfTori> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <https://github.com/tnanako/karutalod#bonze> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <http://purl.org/dc/elements/1.1/subject> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <http://purl.org/dc/elements/1.1/spacial> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_039> <http://purl.org/dc/elements/1.1/source> <Sangi Hitoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <https://github.com/tnanako/karutalod#textOfYomi> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <https://github.com/tnanako/karutalod#textOfTori> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <https://github.com/tnanako/karutalod#bonze> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <http://purl.org/dc/elements/1.1/subject> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <http://purl.org/dc/elements/1.1/spacial> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_038> <http://purl.org/dc/elements/1.1/source> <Ukon>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <https://github.com/tnanako/karutalod#uniqueSyllable> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <https://github.com/tnanako/karutalod#textOfYomi> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <https://github.com/tnanako/karutalod#textOfTori> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <https://github.com/tnanako/karutalod#bonze> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <http://purl.org/dc/elements/1.1/subject> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <http://purl.org/dc/elements/1.1/spacial> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_037> <http://purl.org/dc/elements/1.1/source> <Bunya no Asayasu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <https://github.com/tnanako/karutalod#textOfYomi> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <https://github.com/tnanako/karutalod#textOfTori> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <https://github.com/tnanako/karutalod#bonze> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <http://purl.org/dc/elements/1.1/subject> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <http://purl.org/dc/elements/1.1/spacial> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_036> <http://purl.org/dc/elements/1.1/source> <Kiyowara no Fuka-yabu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <https://github.com/tnanako/karutalod#textOfYomi> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <https://github.com/tnanako/karutalod#textOfTori> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <https://github.com/tnanako/karutalod#bonze> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <http://purl.org/dc/elements/1.1/subject> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <http://purl.org/dc/elements/1.1/spacial> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_035> <http://purl.org/dc/elements/1.1/source> <Kino Tsura-yuki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <https://github.com/tnanako/karutalod#bonze> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <http://purl.org/dc/elements/1.1/subject> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_034> <http://purl.org/dc/elements/1.1/source> <Fujiwara No Oki-kaze>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <https://github.com/tnanako/karutalod#textOfYomi> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <https://github.com/tnanako/karutalod#textOfTori> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <https://github.com/tnanako/karutalod#bonze> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <http://purl.org/dc/elements/1.1/subject> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <http://purl.org/dc/elements/1.1/spacial> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_033> <http://purl.org/dc/elements/1.1/source> <Kino Tomonori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <https://github.com/tnanako/karutalod#uniqueSyllable> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <https://github.com/tnanako/karutalod#textOfYomi> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <https://github.com/tnanako/karutalod#textOfTori> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <https://github.com/tnanako/karutalod#bonze> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <http://purl.org/dc/elements/1.1/subject> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <http://purl.org/dc/elements/1.1/spacial> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_032> <http://purl.org/dc/elements/1.1/source> <Harumichi no Tsuraki>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <https://github.com/tnanako/karutalod#uniqueSyllable> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <https://github.com/tnanako/karutalod#textOfYomi> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <https://github.com/tnanako/karutalod#textOfTori> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <https://github.com/tnanako/karutalod#bonze> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <http://purl.org/dc/elements/1.1/subject> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <http://purl.org/dc/elements/1.1/spacial> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_031> <http://purl.org/dc/elements/1.1/source> <Saka-no-Uye no Korenori>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <https://github.com/tnanako/karutalod#uniqueSyllable> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <https://github.com/tnanako/karutalod#textOfYomi> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <https://github.com/tnanako/karutalod#textOfTori> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <https://github.com/tnanako/karutalod#bonze> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <http://purl.org/dc/elements/1.1/subject> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <http://purl.org/dc/elements/1.1/spacial> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_030> <http://purl.org/dc/elements/1.1/source> <Nibu no Tadamine>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <https://github.com/tnanako/karutalod#uniqueSyllable> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <https://github.com/tnanako/karutalod#textOfYomi> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <https://github.com/tnanako/karutalod#textOfTori> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <https://github.com/tnanako/karutalod#bonze> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <http://purl.org/dc/elements/1.1/subject> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <http://purl.org/dc/elements/1.1/spacial> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_029> <http://purl.org/dc/elements/1.1/source> <Oshi-kochi No Mitsune>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <https://github.com/tnanako/karutalod#uniqueSyllable> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <https://github.com/tnanako/karutalod#textOfYomi> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <https://github.com/tnanako/karutalod#textOfTori> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <https://github.com/tnanako/karutalod#bonze> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <http://purl.org/dc/elements/1.1/subject> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <http://purl.org/dc/elements/1.1/spacial> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_028> <http://purl.org/dc/elements/1.1/source> <Minamoto no Mune-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <https://github.com/tnanako/karutalod#textOfYomi> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <https://github.com/tnanako/karutalod#textOfTori> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <https://github.com/tnanako/karutalod#bonze> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <http://purl.org/dc/elements/1.1/subject> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <http://purl.org/dc/elements/1.1/spacial> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_027> <http://purl.org/dc/elements/1.1/source> <Ch-Nagon Kanesuke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <https://github.com/tnanako/karutalod#uniqueSyllable> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <https://github.com/tnanako/karutalod#textOfYomi> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <https://github.com/tnanako/karutalod#textOfTori> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <https://github.com/tnanako/karutalod#bonze> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <http://purl.org/dc/elements/1.1/subject> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <http://purl.org/dc/elements/1.1/spacial> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_026> <http://purl.org/dc/elements/1.1/source> <Tei-shin Ko>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <https://github.com/tnanako/karutalod#textOfYomi> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <https://github.com/tnanako/karutalod#textOfTori> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <https://github.com/tnanako/karutalod#bonze> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <http://purl.org/dc/elements/1.1/subject> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <http://purl.org/dc/elements/1.1/spacial> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_025> <http://purl.org/dc/elements/1.1/source> <Sanjo Udaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <https://github.com/tnanako/karutalod#textOfYomi> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <https://github.com/tnanako/karutalod#textOfTori> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <https://github.com/tnanako/karutalod#bonze> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <http://purl.org/dc/elements/1.1/subject> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <http://purl.org/dc/elements/1.1/spacial> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_024> <http://purl.org/dc/elements/1.1/source> <Kwan-ke>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <https://github.com/tnanako/karutalod#uniqueSyllable> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <https://github.com/tnanako/karutalod#textOfYomi> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <https://github.com/tnanako/karutalod#textOfTori> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <https://github.com/tnanako/karutalod#bonze> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <http://purl.org/dc/elements/1.1/subject> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <http://purl.org/dc/elements/1.1/spacial> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_023> <http://purl.org/dc/elements/1.1/source> <Oye no Chisato>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <https://github.com/tnanako/karutalod#uniqueSyllable> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <https://github.com/tnanako/karutalod#textOfYomi> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <https://github.com/tnanako/karutalod#textOfTori> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <https://github.com/tnanako/karutalod#bonze> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <http://purl.org/dc/elements/1.1/subject> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <http://purl.org/dc/elements/1.1/spacial> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_022> <http://purl.org/dc/elements/1.1/source> <Bunya No Yasuhide>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <https://github.com/tnanako/karutalod#textOfYomi> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <https://github.com/tnanako/karutalod#textOfTori> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <https://github.com/tnanako/karutalod#bonze> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <http://purl.org/dc/elements/1.1/subject> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <http://purl.org/dc/elements/1.1/spacial> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_021> <http://purl.org/dc/elements/1.1/source> <Sosei Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <https://github.com/tnanako/karutalod#uniqueSyllable> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <https://github.com/tnanako/karutalod#textOfYomi> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <https://github.com/tnanako/karutalod#textOfTori> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <https://github.com/tnanako/karutalod#bonze> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <http://purl.org/dc/elements/1.1/subject> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <http://purl.org/dc/elements/1.1/spacial> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_020> <http://purl.org/dc/elements/1.1/source> <Moto-yoshi Shinno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <https://github.com/tnanako/karutalod#textOfYomi> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <https://github.com/tnanako/karutalod#textOfTori> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <https://github.com/tnanako/karutalod#bonze> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <http://purl.org/dc/elements/1.1/subject> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <http://purl.org/dc/elements/1.1/spacial> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_019> <http://purl.org/dc/elements/1.1/source> <Ise>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <https://github.com/tnanako/karutalod#uniqueSyllable> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <https://github.com/tnanako/karutalod#textOfYomi> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <https://github.com/tnanako/karutalod#textOfTori> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <https://github.com/tnanako/karutalod#bonze> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <http://purl.org/dc/elements/1.1/subject> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <http://purl.org/dc/elements/1.1/spacial> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_018> <http://purl.org/dc/elements/1.1/source> <Fujiwara No Toshi-yuki Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <https://github.com/tnanako/karutalod#textOfYomi> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <https://github.com/tnanako/karutalod#textOfTori> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <https://github.com/tnanako/karutalod#bonze> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <http://purl.org/dc/elements/1.1/subject> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <http://purl.org/dc/elements/1.1/spacial> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_017> <http://purl.org/dc/elements/1.1/source> <Ariwara no Nari-hira Ason>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <https://github.com/tnanako/karutalod#textOfYomi> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <https://github.com/tnanako/karutalod#textOfTori> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <https://github.com/tnanako/karutalod#bonze> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <http://purl.org/dc/elements/1.1/subject> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <http://purl.org/dc/elements/1.1/spacial> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_016> <http://purl.org/dc/elements/1.1/source> <Ch-Nagon Ariwara no Yuki-hira>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <https://github.com/tnanako/karutalod#textOfYomi> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <https://github.com/tnanako/karutalod#textOfTori> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <https://github.com/tnanako/karutalod#bonze> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <http://purl.org/dc/elements/1.1/subject> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <http://purl.org/dc/elements/1.1/spacial> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_015> <http://purl.org/dc/elements/1.1/source> <Kwoko Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <https://github.com/tnanako/karutalod#textOfYomi> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <https://github.com/tnanako/karutalod#textOfTori> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <https://github.com/tnanako/karutalod#bonze> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <http://purl.org/dc/elements/1.1/subject> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <http://purl.org/dc/elements/1.1/spacial> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_014> <http://purl.org/dc/elements/1.1/source> <Kawara no Sadaijin>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <https://github.com/tnanako/karutalod#uniqueSyllable> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <https://github.com/tnanako/karutalod#textOfYomi> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <https://github.com/tnanako/karutalod#textOfTori> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <https://github.com/tnanako/karutalod#bonze> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <http://purl.org/dc/elements/1.1/subject> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <http://purl.org/dc/elements/1.1/spacial> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_013> <http://purl.org/dc/elements/1.1/source> <Yozei In>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <https://github.com/tnanako/karutalod#textOfYomi> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <https://github.com/tnanako/karutalod#textOfTori> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <https://github.com/tnanako/karutalod#bonze> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <http://purl.org/dc/elements/1.1/subject> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <http://purl.org/dc/elements/1.1/spacial> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_012> <http://purl.org/dc/elements/1.1/source> <Sojo Henjo>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <https://github.com/tnanako/karutalod#uniqueSyllable> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <https://github.com/tnanako/karutalod#textOfYomi> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <https://github.com/tnanako/karutalod#textOfTori> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <https://github.com/tnanako/karutalod#bonze> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <http://purl.org/dc/elements/1.1/subject> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <http://purl.org/dc/elements/1.1/spacial> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_011> <http://purl.org/dc/elements/1.1/source> <Sangi Takamura>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <https://github.com/tnanako/karutalod#uniqueSyllable> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <https://github.com/tnanako/karutalod#textOfYomi> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <https://github.com/tnanako/karutalod#textOfTori> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <https://github.com/tnanako/karutalod#bonze> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <http://purl.org/dc/elements/1.1/subject> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <http://purl.org/dc/elements/1.1/spacial> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_010> <http://purl.org/dc/elements/1.1/source> <Semi Maru>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <https://github.com/tnanako/karutalod#textOfYomi> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <https://github.com/tnanako/karutalod#textOfTori> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <https://github.com/tnanako/karutalod#bonze> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <http://purl.org/dc/elements/1.1/subject> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <http://purl.org/dc/elements/1.1/spacial> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_009> <http://purl.org/dc/elements/1.1/source> <Ono no Komachi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <https://github.com/tnanako/karutalod#textOfYomi> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <https://github.com/tnanako/karutalod#textOfTori> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <https://github.com/tnanako/karutalod#bonze> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <http://purl.org/dc/elements/1.1/subject> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <http://purl.org/dc/elements/1.1/spacial> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_008> <http://purl.org/dc/elements/1.1/source> <Kizen Hoshi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <https://github.com/tnanako/karutalod#uniqueSyllable> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <https://github.com/tnanako/karutalod#textOfYomi> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <https://github.com/tnanako/karutalod#textOfTori> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <https://github.com/tnanako/karutalod#bonze> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <http://purl.org/dc/elements/1.1/subject> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <http://purl.org/dc/elements/1.1/spacial> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_007> <http://purl.org/dc/elements/1.1/source> <Abe no Nakamaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <https://github.com/tnanako/karutalod#uniqueSyllable> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <https://github.com/tnanako/karutalod#textOfYomi> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <https://github.com/tnanako/karutalod#textOfTori> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <https://github.com/tnanako/karutalod#bonze> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <http://purl.org/dc/elements/1.1/subject> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <http://purl.org/dc/elements/1.1/spacial> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_006> <http://purl.org/dc/elements/1.1/source> <Ch-nagon Yakamochi>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <https://github.com/tnanako/karutalod#uniqueSyllable> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <https://github.com/tnanako/karutalod#textOfYomi> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <https://github.com/tnanako/karutalod#textOfTori> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <https://github.com/tnanako/karutalod#bonze> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <http://purl.org/dc/elements/1.1/subject> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <http://purl.org/dc/elements/1.1/spacial> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_005> <http://purl.org/dc/elements/1.1/source> <Saru Maru Taiu>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <https://github.com/tnanako/karutalod#uniqueSyllable> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <https://github.com/tnanako/karutalod#textOfYomi> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <https://github.com/tnanako/karutalod#textOfTori> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <https://github.com/tnanako/karutalod#bonze> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <http://purl.org/dc/elements/1.1/subject> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <http://purl.org/dc/elements/1.1/spacial> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_004> <http://purl.org/dc/elements/1.1/source> <Yamabe no Akahito>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <https://github.com/tnanako/karutalod#uniqueSyllable> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <https://github.com/tnanako/karutalod#textOfYomi> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <https://github.com/tnanako/karutalod#textOfTori> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <https://github.com/tnanako/karutalod#bonze> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <http://purl.org/dc/elements/1.1/subject> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <http://purl.org/dc/elements/1.1/spacial> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_003> <http://purl.org/dc/elements/1.1/source> <Kaki-no-Moto no Hitomaro>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <https://github.com/tnanako/karutalod#uniqueSyllable> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <https://github.com/tnanako/karutalod#textOfYomi> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <https://github.com/tnanako/karutalod#textOfTori> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <https://github.com/tnanako/karutalod#bonze> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <http://purl.org/dc/elements/1.1/subject> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <http://purl.org/dc/elements/1.1/spacial> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_002> <http://purl.org/dc/elements/1.1/source> <Jito Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <https://github.com/tnanako/karutalod#uniqueSyllable> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <https://github.com/tnanako/karutalod#textOfYomi> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <https://github.com/tnanako/karutalod#textOfTori> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <https://github.com/tnanako/karutalod#bonze> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <http://purl.org/dc/elements/1.1/subject> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <http://purl.org/dc/elements/1.1/spacial> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_001> <http://purl.org/dc/elements/1.1/source> <Tenchi Tenno>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <https://github.com/tnanako/karutalod#uniqueSyllable> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <https://github.com/tnanako/karutalod#textOfYomi> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <https://github.com/tnanako/karutalod#textOfTori> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <https://github.com/tnanako/karutalod#bonze> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <http://www.w3.org/2003/01/geo/wgs84_pos#long> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <http://purl.org/dc/elements/1.1/subject> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <http://purl.org/dc/elements/1.1/spacial> <Wani Hakase>
+0.010	<https://www.mirko.jp/ogura/LOD?kajin_000> <http://purl.org/dc/elements/1.1/source> <Wani Hakase>

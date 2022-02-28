@@ -9,6 +9,8 @@ Usage:
 """
 import urllib.request, urllib.error, urllib.parse, urllib.request, urllib.parse, urllib.error, http.client, json
 import sys
+import os
+import codecs
 import pickle
 import time
 import numpy as np
@@ -59,14 +61,14 @@ def retrieve(t, predictions):
     global files
     preds = dict()
     
-    with open(rules + "/rules-" + files[t] + ".tsv") as f:
+    with open(rules + r"/rules-" + files[t] + ".tsv") as f:
         next(f)
         for line in f:
             line = line[:-1].split('\t')
             weight = float(line[0])
             head = line[1]
             body = list()
-            for i in range(len(line[3:])/2):
+            for i in range(len(line[3:])//2):
                 body.append((line[3+i*2], line[4+i*2][1], line[4+i*2][3]))
             # print head, body
             bodies = ""
@@ -126,16 +128,20 @@ def run(endpoint_P, graph_P, rules_P, infer_fun_P, output_folder_P):
                 predictions[triple] = list()
             for val in p[triple]:
                 predictions[triple].append(val)
-
-    with open("{}/predictions.txt".format(output_folder), 'w') as fout:
-        for p in predictions:
-            fout.write("{}\t{}\n".format(p, predictions[p]))
+    if os.name == 'nt':
+        with codecs.open("{}/predictions.txt".format(output_folder), 'w', 'cp932', 'ignore') as fout:
+            for p in predictions:
+                fout.write("{}\t{}\n".format(p, predictions[p]))
+    else:
+        with open("{}/predictions.txt".format(output_folder), 'w') as fout:
+            for p in predictions:
+                fout.write("{}\t{}\n".format(p, predictions[p]))
 
     print("Computing inference values...")
     for fun in infer_fun.split(","):
     
         predictions_fun = dict()
-    
+
         for triple in predictions:
             if fun == 'A':
                 predictions_fun[triple] = np.mean(predictions[triple])
@@ -146,26 +152,38 @@ def run(endpoint_P, graph_P, rules_P, infer_fun_P, output_folder_P):
 
         print("Number of predicted triples:", len(predictions_fun))
         print("Saving predictions to file...")
-        with open("{}/inferred_triples_{}.txt".format(output_folder, fun), "w") as fout:
-            for key, value in sorted(iter(predictions_fun.items()), key=lambda k_v: (k_v[1],k_v[0]), reverse=True):
-                # print "%.3f\t%s" % (value, key)
-                fout.write("%.3f\t%s\n" % (value, key))
+
+        if os.name == 'nt':
+            with codecs.open("{}/inferred_triples_{}.txt".format(output_folder, fun), "w", 'cp932', 'ignore') as fout:
+                for key, value in sorted(iter(predictions_fun.items()), key=lambda k_v: (k_v[1], k_v[0]), reverse=True):
+                    # print "%.3f\t%s" % (value, key)
+                    fout.write("%.3f\t%s\n" % (value, key))
+        else:
+            with open("{}/inferred_triples_{}.txt".format(output_folder, fun), "w") as fout:
+                for key, value in sorted(iter(predictions_fun.items()), key=lambda k_v: (k_v[1],k_v[0]), reverse=True):
+                    # print "%.3f\t%s" % (value, key)
+                    fout.write("%.3f\t%s\n" % (value, key))
 
 if __name__ == '__main__':
     
     ############################### ARGUMENTS ################################
 
-    endpoint = sys.argv[1]
-    graph = sys.argv[2]
-    rules = sys.argv[3]
-    if len(sys.argv) <= 4:
-        infer_fun = 'M'
-    else:
-        infer_fun = sys.argv[4] # 'A' (average), 'M' (maximum), 'P' (opp.product)
+    # endpoint = sys.argv[1]]
+    # endpoint = "https://linkeddata.rcgs.jp/"
 
-    if len(sys.argv) <= 5:
-        output_folder = "."
-    else:
-        output_folder = sys.argv[5]
+    # endpoint = "http://dbpedia.org/sparql"
+    # graph = "http://dbpedia.org"
+
+    # endpoint = "https://ja.dbpedia.org/sparql"
+    # graph = "https://ja.dbpedia.org"
+
+    endpoint = "https://sparql.linkedopendata.cf"
+    # graph = "https://www.mirko.jp/ogura/LOD/ogura"
+    graph = "https://www.mirko.jp/ogura/LOD/kajin"
+
+    rules = r"."
+    # infer_fun = 'M' # 'A' (average), 'M' (maximum), 'P' (opp.product)
+    infer_fun = 'M'  # 'A' (average), 'M' (maximum), 'P' (opp.product)
+    output_folder = "."
 
     run(endpoint, graph, rules, infer_fun, output_folder)

@@ -22,12 +22,13 @@ Usage:
     > python horn_concerto.py <ENDPOINT> <GRAPH_IRI> <MIN_CONFIDENCE> <TOP_PROPERTIES> <MAX_TRIANGLES> <OUTPUT_FOLDER>
 
 """
-import urllib2, urllib, httplib, json
+import urllib.request, urllib.error, urllib.parse, urllib.request, urllib.parse, urllib.error, http.client, json
 import sys
 import pickle
 import time
+import importlib
 
-reload(sys)
+importlib.reload(sys)
 sys.setdefaultencoding("utf-8")
 
 VERSION = "0.0.2"
@@ -58,7 +59,7 @@ else:
 ############################### FUNCTIONS ################################
 
 def sort_by_value_desc(d):
-    return sorted(d.items(), key=lambda e: e[1], reverse=True)
+    return sorted(list(d.items()), key=lambda e: e[1], reverse=True)
 
 def sparql_query(query):
     param = dict()
@@ -70,48 +71,48 @@ def sparql_query(query):
     param["timeout"] = "600000" # ten minutes - works with Virtuoso endpoints
     param["debug"] = "on"
     try:
-        resp = urllib2.urlopen(ENDPOINT + "?" + urllib.urlencode(param))
+        resp = urllib.request.urlopen(ENDPOINT + "?" + urllib.parse.urlencode(param))
         j = resp.read()
         resp.close()
-    except (urllib2.HTTPError, httplib.BadStatusLine):
-        print "*** Query error. Empty result set. ***"
+    except (urllib.error.HTTPError, http.client.BadStatusLine):
+        print("*** Query error. Empty result set. ***")
         j = '{ "results": { "bindings": [] } }'
     sys.stdout.flush()
     return json.loads(j)
 
 def simple_rules(q):
     SIMPLE_RULES = "SELECT ?p (COUNT(*) AS ?c) WHERE { ?x ?p ?y . ?x <" + q + "> ?y . FILTER(?p != <" + q + "> ) } GROUP BY ?p ORDER BY DESC(?c)"
-    print "Querying:", SIMPLE_RULES
+    print("Querying:", SIMPLE_RULES)
     rules = dict()
     start = time.time()
     results = sparql_query(SIMPLE_RULES)
-    print "Time: {}".format(time.time() - start)
+    print("Time: {}".format(time.time() - start))
     try:
         for result in results["results"]["bindings"]:
             rules[str(result["p"]["value"])] = int(result["c"]["value"])
     except KeyError:
         pass
-    print "Result:", rules
+    print("Result:", rules)
     return rules
 
 def type_two_rules(q):
     TYPE_2_RULES = "SELECT ?p (COUNT(*) AS ?c) WHERE { ?y ?p ?x . ?x <" + q + "> ?y } GROUP BY ?p ORDER BY DESC(?c)"
-    print "Querying:", TYPE_2_RULES
+    print("Querying:", TYPE_2_RULES)
     rules = dict()
     start = time.time()
     results = sparql_query(TYPE_2_RULES)
-    print "Time: {}".format(time.time() - start)
+    print("Time: {}".format(time.time() - start))
     try:
         for result in results["results"]["bindings"]:
             rules[str(result["p"]["value"])] = int(result["c"]["value"])
     except KeyError:
         pass
-    print "Result:", rules
+    print("Result:", rules)
     return rules
 
 def top_properties():
     TOP_PROPERTIES = 'SELECT ?q (COUNT(*) AS ?c) WHERE { [] ?q [] } GROUP BY ?q ORDER BY DESC(?c) LIMIT ' + str(N_PROPERTIES)
-    print "Querying:", TOP_PROPERTIES
+    print("Querying:", TOP_PROPERTIES)
     tp = dict()
     results = sparql_query(TOP_PROPERTIES)
     try:
@@ -119,32 +120,32 @@ def top_properties():
             tp[str(result["q"]["value"])] = int(result["c"]["value"])
     except KeyError:
         pass
-    print "Result:", tp
+    print("Result:", tp)
     return tp
     
 def triangles(t, p):
     tri = [["?x ?q ?z", "?z ?r ?y"], ["?x ?q ?z", "?y ?r ?z"], ["?z ?q ?x", "?z ?r ?y"], ["?z ?q ?x", "?y ?r ?z"]]
     TRIANGLES = 'SELECT ?q ?r (COUNT(*) AS ?c) WHERE { ' + tri[t][0] + ' . ' + tri[t][1] + ' . ?x <' + p + '> ?y } GROUP BY ?q ?r ORDER BY DESC(?c) LIMIT ' + str(N_TRIANGLES)
-    print "Querying:", TRIANGLES
+    print("Querying:", TRIANGLES)
     rules = dict()
     start = time.time()
     results = sparql_query(TRIANGLES)
-    print "Time: {}".format(time.time() - start)
+    print("Time: {}".format(time.time() - start))
     try:
         for result in results["results"]["bindings"]:
             rules[(str(result["q"]["value"]), str(result["r"]["value"]))] = int(result["c"]["value"])
     except KeyError:
         pass
-    print "Result:", rules
+    print("Result:", rules)
     return rules    
 
 def adjacencies(t, k):
     nodes = ["xzzy", "xzyz", "zxzy", "zxyz"]
     ADJACENCIES = 'SELECT (COUNT(*) AS ?c) WHERE { ?' + nodes[t][0] + ' <' + k[0] + '> ?' + nodes[t][1] + ' . ?' + nodes[t][2] + ' <' + k[1] + '> ?' + nodes[t][3] + ' }'
-    print "Querying:", ADJACENCIES
+    print("Querying:", ADJACENCIES)
     start = time.time()
     results = sparql_query(ADJACENCIES)
-    print "Time: {}".format(time.time() - start)
+    print("Time: {}".format(time.time() - start))
     try:
         res = results["results"]["bindings"]
     except KeyError:
@@ -179,15 +180,15 @@ def write_titles():
     for t in range(len(files)):
         if t < 2:
             with open("{}/rules-{}.tsv".format(OUTPUT_FOLDER, files[t]), 'w') as f:
-                f.write(unicode("weight\tp\t(?,?)\tq\t(?,?)\n"))
+                f.write(str("weight\tp\t(?,?)\tq\t(?,?)\n"))
         else:
             with open("{}/rules-{}.tsv".format(OUTPUT_FOLDER, files[t]), 'w') as f:
-                f.write(unicode("weight\tp\t(?,?)\tq\t(?,?)\tr\t(?,?)\n"))
+                f.write(str("weight\tp\t(?,?)\tq\t(?,?)\tr\t(?,?)\n"))
 
 ############################### ALGORITHM ################################
 
-print "Horn Concerto v{}".format(VERSION)
-print "Endpoint: {}\nGraph: {}\nMin_Confidence: {}\nN_Properties: {}\nN_Triangles: {}\nOutput_Folder: {}\n".format(ENDPOINT, GRAPH, MIN_CONFIDENCE, N_PROPERTIES, N_TRIANGLES, OUTPUT_FOLDER)
+print("Horn Concerto v{}".format(VERSION))
+print("Endpoint: {}\nGraph: {}\nMin_Confidence: {}\nN_Properties: {}\nN_Triangles: {}\nOutput_Folder: {}\n".format(ENDPOINT, GRAPH, MIN_CONFIDENCE, N_PROPERTIES, N_TRIANGLES, OUTPUT_FOLDER))
 
 write_titles()
 
@@ -210,23 +211,23 @@ body = [
 
 # outer loop
 for i in range(len(types)):
-    print "Rules of type", types[i]
+    print("Rules of type", types[i])
     # there might exist p_1,p_2 such that: p_i(x,y) <= q(?,?), r(?,?)
     # shared dictionary
     adj_dict = dict()
     # inner loop
     for tp_key, tp_val in sort_by_value_desc(tp):
-        print "Processing:", tp_key, tp_val
+        print("Processing:", tp_key, tp_val)
         if i < 2: # p-q rules
             if i == 0: # p(x,y) <= q(x,y)
                 r = simple_rules(tp_key)
             else: # p(x,y) <= q(y,x)
                 r = type_two_rules(tp_key)
             for r_key, r_val in sort_by_value_desc(r):
-                print r_key, r_val
-                print "*** RULE FOUND! ***",
+                print(r_key, r_val)
+                print("*** RULE FOUND! ***", end=' ')
                 c = float(r_val) / float(tp_val)
-                print "c = {}\t{} (x,y) <= {} {}".format(c, r_key, tp_key, body[i])
+                print("c = {}\t{} (x,y) <= {} {}".format(c, r_key, tp_key, body[i]))
                 worth = write_rule(i, c, r_key, tp_key)
                 if not worth:
                     break
@@ -234,21 +235,21 @@ for i in range(len(types)):
             j = i - 2 # p-q-r rule index
             triang = triangles(j, tp_key)
             for k, v in sort_by_value_desc(triang):
-                print k, v
+                print(k, v)
                 if k in adj_dict:
-                    print "Value found in dictionary:", k
+                    print("Value found in dictionary:", k)
                     adj = adj_dict[k]
                 else:
                     adj = adjacencies(j, k)
                 if adj == 0:
                     continue
                 c = float(v) / float(adj)
-                print "*** RULE FOUND! ***"
-                print "c = {}\t{} (x,y) <= {} {} ^ {} {}".format(c, tp_key, k[0], body[i][0], k[1], body[i][1])
+                print("*** RULE FOUND! ***")
+                print("c = {}\t{} (x,y) <= {} {} ^ {} {}".format(c, tp_key, k[0], body[i][0], k[1], body[i][1]))
                 worth = write_rule_3(j, c, tp_key, k[0], k[1])
                 if not worth:
                     break
                 adj_dict[k] = adj
 
-print "Done."
-print "\nRules saved in files {}/rules-*.tsv".format(OUTPUT_FOLDER)
+print("Done.")
+print("\nRules saved in files {}/rules-*.tsv".format(OUTPUT_FOLDER))

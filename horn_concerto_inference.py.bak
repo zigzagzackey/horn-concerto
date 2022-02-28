@@ -7,17 +7,16 @@ Usage:
     Use test endpoint (DBpedia)
     > python horn_concerto_inference.py <endpoint> <graph_IRI> <rules_PATH> <infer_function> <output_folder>
 """
-import urllib.request, urllib.error, urllib.parse, urllib.request, urllib.parse, urllib.error, http.client, json
+import urllib2, urllib, httplib, json
 import sys
 import pickle
 import time
 import numpy as np
 from joblib import Parallel, delayed
 import multiprocessing
-import importlib
 
-importlib.reload(sys)
-# sys.setdefaultencoding("utf-8")
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 VERSION = "0.0.7"
 
@@ -39,12 +38,12 @@ def sparql_query(query):
     param["timeout"] = "600000" # ten minutes - works with Virtuoso endpoints
     param["debug"] = "on"
     try:
-        resp = urllib.request.urlopen(endpoint + "?" + urllib.parse.urlencode(param))
+        resp = urllib2.urlopen(endpoint + "?" + urllib.urlencode(param))
         j = resp.read()
         resp.close()
-    except (urllib.error.HTTPError, http.client.BadStatusLine):
-        print("*** Query error. Empty result set. ***")
-        print("*** {}".format(query))
+    except (urllib2.HTTPError, httplib.BadStatusLine):
+        print "*** Query error. Empty result set. ***"
+        print "*** {}".format(query)
         j = '{ "results": { "bindings": [] } }'
     sys.stdout.flush()
     return json.loads(j)
@@ -75,9 +74,9 @@ def retrieve(t, predictions):
             offset = 0
             while True:
                 query = "SELECT DISTINCT(?x) ?y WHERE { " + bodies + "MINUS { ?x <" + head + "> ?y } } LIMIT 10000 OFFSET " + str(offset)
-                print(query)
+                print query
                 results = sparql_query(query)
-                print(len(results["results"]["bindings"]))
+                print len(results["results"]["bindings"])
                 # print "\t", results
                 try:
                     for result in results["results"]["bindings"]:
@@ -109,15 +108,15 @@ def run(endpoint_P, graph_P, rules_P, infer_fun_P, output_folder_P):
     infer_fun = infer_fun_P
     output_folder = output_folder_P
     
-    print("Horn Concerto v{}".format(VERSION))
-    print("Endpoint: {}\nGraph: {}\nRules: {}\nInference function: {}\nOutput folder: {}\n".format(endpoint, graph, rules, infer_fun, output_folder))
+    print "Horn Concerto v{}".format(VERSION)
+    print "Endpoint: {}\nGraph: {}\nRules: {}\nInference function: {}\nOutput folder: {}\n".format(endpoint, graph, rules, infer_fun, output_folder)
     num_cores = multiprocessing.cpu_count()
-    print("Cores:", num_cores)
+    print "Cores:", num_cores
     
     # WARNING: temporary in-memory solution
     predictions = dict()
 
-    print("Retrieving conditional probabilities...")
+    print "Retrieving conditional probabilities..."
     preds = Parallel(n_jobs=num_cores)(delayed(retrieve)(t=t, predictions=predictions) for t in range(len(files)))
 
     for p in preds:
@@ -131,7 +130,7 @@ def run(endpoint_P, graph_P, rules_P, infer_fun_P, output_folder_P):
         for p in predictions:
             fout.write("{}\t{}\n".format(p, predictions[p]))
 
-    print("Computing inference values...")
+    print "Computing inference values..."
     for fun in infer_fun.split(","):
     
         predictions_fun = dict()
@@ -144,10 +143,10 @@ def run(endpoint_P, graph_P, rules_P, infer_fun_P, output_folder_P):
             if fun == 'P':
                 predictions_fun[triple] = opposite_product(predictions[triple])
 
-        print("Number of predicted triples:", len(predictions_fun))
-        print("Saving predictions to file...")
+        print "Number of predicted triples:", len(predictions_fun)
+        print "Saving predictions to file..."
         with open("{}/inferred_triples_{}.txt".format(output_folder, fun), "w") as fout:
-            for key, value in sorted(iter(predictions_fun.items()), key=lambda k_v: (k_v[1],k_v[0]), reverse=True):
+            for key, value in sorted(predictions_fun.iteritems(), key=lambda (k,v): (v,k), reverse=True):
                 # print "%.3f\t%s" % (value, key)
                 fout.write("%.3f\t%s\n" % (value, key))
 
